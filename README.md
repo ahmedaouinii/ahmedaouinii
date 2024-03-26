@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ahmed Aouini</h1>
-<h3 align="center">A passionate backend developer from Tunisia and creator of General Progs</h3>
-<center><img src="https://cdn.discordapp.com/icons/1131528417947435069/a_91d1d51fddab0ea73a71a8d2bd1d14ee.gif"></center>
+<h3 align="center">A passionate backend developer from Tunisia</h3>
+<center><img align="center" src="https://cdn.discordapp.com/icons/1131528417947435069/a_91d1d51fddab0ea73a71a8d2bd1d14ee.gif"></center>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedaouinii&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedaouinii" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmedaouinii" alt="ahmedaouinii" /></a> </p>
